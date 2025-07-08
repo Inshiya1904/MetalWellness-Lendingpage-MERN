@@ -60,8 +60,8 @@ For `Backend/.env`:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Mental-Wellness-lendingPage-MERN.git
-cd Mental-Wellness-lendingPage-MERN
+git clone https://github.com/Inshiya1904/MetalWellness-Lendingpage-MERN.git
+cd MetalWellness-Lendingpage-MERN
 ```
 
 ### 2. Install Client Dependencies
