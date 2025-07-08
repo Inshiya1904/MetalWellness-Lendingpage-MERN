@@ -10,9 +10,6 @@ A professional and responsive mental wellness landing page built using the MERN 
 
 ---
 
-
----
-
 ## ✨ Features
 
 ### 🌐 Public (Landing Page)
@@ -49,8 +46,7 @@ A professional and responsive mental wellness landing page built using the MERN 
 
 ## 🔑 .env Configuration
 
-For `server/.env`:
-
+For `Backend/.env`:
 
 ---
 
@@ -60,23 +56,41 @@ For `server/.env`:
 ```bash
 git clone https://github.com/your-username/Mental-Wellness-lendingPage-MERN.git
 cd Mental-Wellness-lendingPage-MERN
+```
 
-
-2. Install Client Dependencies
-cd client
+### 2. Install Client Dependencies
+```bash
+cd Frontend
 npm install
+```
 
-3. Install Server Dependencies
-cd ../server
+### 3. Install Admin Dependencies
+```bash
+cd Admin
 npm install
+```
 
-4. Start Both Servers
+### 4. Install Server Dependencies
+```bash
+cd Backend
+npm install
+```
+
+### 5. Start Both Servers
+```bash
 # Start Backend
-cd server
+cd Backend
 npm run dev
+```
 
 # In another terminal, start Frontend
-cd ../client
+```bash
+cd Frontend
 npm run dev
+```
 
-
+# In another terminal, start Admin
+```bash
+cd Admin
+npm run dev
+```
