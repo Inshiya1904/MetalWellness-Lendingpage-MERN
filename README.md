@@ -83,13 +83,13 @@ cd Backend
 npm run dev
 ```
 
-# In another terminal, start Frontend
+### 6. In another terminal, start Frontend
 ```bash
 cd Frontend
 npm run dev
 ```
 
-# In another terminal, start Admin
+### 7. In another terminal, start Admin
 ```bash
 cd Admin
 npm run dev
