@@ -6,7 +6,7 @@ A professional and responsive mental wellness landing page built using the MERN 
 
 ## 🖼️ UI Preview
 
-![Project Screenshot](.Frontend/public/Screenshot.png)
+![Project Screenshot](./Frontend/public/Screenshot.png)
 
 ---
 
