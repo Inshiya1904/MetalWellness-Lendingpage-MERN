@@ -12,7 +12,8 @@ A professional and responsive mental wellness landing page built using the MERN 
 
 ## 🚀 Live Preview
 
-🌐 [Demo Link (If deployed)](https://your-deployment-link.com)
+🌐 [Demo Link (Frontend)](https://metalwellness-lendingpage-mern-1.onrender.com)
+🌐 [Demo Link (Admin)](https://metalwellness-lendingpage-mern-admin.onrender.com)
 
 ---
 
